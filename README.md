@@ -79,7 +79,7 @@ This section explains how to get and compile current development stream of RVS.
     cd ROCmValidationSuite
  If OS is Ubuntu and SLES, use cmake
     
-     cmake ./ -B./build
+     cmake ./ -B ./build
      
      make -C ./build
      
